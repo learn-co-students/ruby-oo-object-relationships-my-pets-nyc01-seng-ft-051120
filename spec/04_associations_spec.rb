@@ -1,3 +1,4 @@
+
 require_relative 'spec_helper.rb'
 
 describe "Associations" do
@@ -140,3 +141,4 @@ describe "Associations" do
     end
   end
 end
+
