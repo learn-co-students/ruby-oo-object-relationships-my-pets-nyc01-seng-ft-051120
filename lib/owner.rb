@@ -1,5 +1,5 @@
-require 'pry'
-require_relative './cat.rb'
+# require 'pry'
+# require_relative './cat.rb'
 class Owner
 attr_reader :name, :species
 
@@ -74,4 +74,4 @@ attr_reader :name, :species
 
 end
 
-binding.pry
+# binding.pry
